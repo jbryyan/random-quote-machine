@@ -1,0 +1,67 @@
+body{
+  font-family: "Source Sans Pro", sans-serif;
+  transition: background 1s linear;
+  -webkit-transition: background 1s linear;
+  -moz-transition: background 1s linear;
+}
+a{
+  text-align: center;
+}
+.pageHeader{
+  color: white;
+  text-shadow: 1px 1px 1px black !important;
+  padding-top: 20px;
+}
+
+.row{
+  padding-top: 50px;
+}
+
+.card-block{
+  padding: 40px;
+  padding-top: 30px;
+  min-height: 100%;
+  max-height: 100%;
+  text-shadow: 1px 1px 1px black !important;
+}
+
+.card-footer{
+  background-color: white;
+  border: none;
+}
+
+.socialMedia{
+  width: 40px;
+  outline-color: none;
+  text-shadow: 1px 1px 1px black !important;
+}
+
+.madeBy{
+  text-align: center;
+  padding: 5px;
+  font-size: 20px;
+  color: white;
+  margin-bottom: 0px;
+  text-shadow: 1px 1px 1px black !important;
+}
+
+#quote{
+  font-size: 36px;
+}
+
+#author{
+  font-size: 20px;
+
+}
+
+#getQuote{
+  margin-left: auto;
+  font-size: 1em;
+  color: white;
+  text-shadow: 1px 1px 1px black !important;
+}
+
+#link{
+  display: inline-block;
+
+}
